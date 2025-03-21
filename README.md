@@ -9,9 +9,9 @@
 SEA FOOD DELIVERY APP
 SEA FOOD DELIVERY APP
 🚀The "See Food App" project 
-🎯aims to provide a visually appealing and user-friendly interface for a food-related service. It leverages various Flutter widgets and third-party libraries to create a rich and interactive user experience, making it easy for users to browse, search, and manage food items.
-📌Carousel Slider – create an image slider with auto-play and zoom effects.
-📌Typing Animation - to create a typing animation effect for the "Today Menu" text
+🎯aims to provide a visually appealing and user-friendly interface for a food-related service. It leverages various Flutter widgets and third-party libraries to create a rich and interactive user experience, making it easy for users to browse, search, and manage food items.<br>
+📌Carousel Slider – create an image slider with auto-play and zoom effects.<br>
+📌Typing Animation - to create a typing animation effect for the "Today Menu" text.<br>
 📌Stylish Bottom Bar - create an animated bottom navigation bar with icons and badges.</p><br>
 
 
