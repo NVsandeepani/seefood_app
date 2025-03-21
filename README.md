@@ -1,16 +1,32 @@
-# seefood_app
+# See Food Delivery App
 
-A new Flutter project.
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Scroll+To+Bottom!;" />
+</h1>
 
-## Getting Started
+## About The Project
+<p> 
+SEA FOOD DELIVERY APP
+SEA FOOD DELIVERY APP
+🚀The "See Food App" project 
+🎯aims to provide a visually appealing and user-friendly interface for a food-related service. It leverages various Flutter widgets and third-party libraries to create a rich and interactive user experience, making it easy for users to browse, search, and manage food items.
+📌Carousel Slider – create an image slider with auto-play and zoom effects.
+📌Typing Animation - to create a typing animation effect for the "Today Menu" text
+📌Stylish Bottom Bar - create an animated bottom navigation bar with icons and badges.</p><br>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![Image](https://github.com/user-attachments/assets/b748a265-6810-42a7-b989-80609d2cc693)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Built With
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=flutter,dart" /><br>
+   
+</div>
+
+
+
+
+
+
